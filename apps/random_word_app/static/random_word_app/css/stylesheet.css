@@ -1,0 +1,12 @@
+
+h1{
+    color: blue;
+    font-size: 60px;
+    border: 10px double blueviolet;
+    padding: 50px;
+}
+p{
+    color: royalblue;
+    padding: 50px;
+    border: 10px double blueviolet;
+}
